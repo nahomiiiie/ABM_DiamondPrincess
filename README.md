@@ -4,3 +4,5 @@ This project is an agent based model of the spread of COVID-19 on the Diamond Pr
 
 The project is built in NetLogo using SIR dynamics and flocking movement. 
 The analysis is completed using Jupyter Notebook.
+
+The nlogo3d files should be run with NetLogo3D. 
